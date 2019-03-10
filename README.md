@@ -3,4 +3,4 @@
 2.You need to start the server at first, then you need to enter your address in the client, so they can connect.
 3.This project can also run in the local network.
 4.If you meet some problems, you can chat with me.
-5.You can download this project by learning, other usage are not permitted.
+5.You can download this project by learning, other usages are not permitted.
